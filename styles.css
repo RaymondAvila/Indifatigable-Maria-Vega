@@ -1,0 +1,22 @@
+strong {
+    font-family: 'Great Vibes', cursive;
+    }
+h1 {
+    font-size: 70px;
+    color: #FF00D7; 
+    border: solid;
+    border-color: #FF00D7;
+    text-align: center;
+    }
+h2 {
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    }
+Body{
+    background-color: #A8006F;
+    text-align: center;
+    }
+p {
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    }
